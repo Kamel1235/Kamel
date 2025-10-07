@@ -1,0 +1,5 @@
+{
+  "name": "Copy of إدارة معدات المصنع",
+  "description": "تطبيق ويب لإدارة معدات المصنع والمخزون باستخدام Firebase Realtime Database. يوفر واجهات لتتبع المخزن، الصناديق، التوالف، وسجل التغيرات.",
+  "requestFramePermissions": []
+}
